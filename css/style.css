@@ -1856,9 +1856,9 @@ ul.links li a::before,
 }
 
 .navbar-brand {
-    /* margin: 16px 0; */
+    margin: 7px 0;
     padding: 0;
-    width: 145px;
+    width: 135px;
     position: relative;
 }
 
@@ -1974,12 +1974,12 @@ ul.links li a::before,
 
 .dark-slider h2,
 .light-slider h2 {
-    font-size: 48px !important;
+    font-size: 58px !important;
 }
 
 .dark-slider p,
 .light-slider p {
-    font-size: 18px !important;
+    font-size: 22px !important;
     line-height: 1.2 !important;
 }
 
