@@ -670,11 +670,11 @@ jQuery($=> {
     /* ------ OWL Slider ------ */
     /*Partners / LOgo*/
     $("#partners-slider").owlCarousel({
-        items: 2,
+        items: 1,
         autoplayHoverPause: false,
         slideBy: 1,
         loop: false,
-        margin: 30,
+        margin: 0,
         dots: false,
         nav: false,
         // responsive: {
